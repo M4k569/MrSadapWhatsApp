@@ -36,29 +36,29 @@ echo $blue"╭──[Silahkan Masukan Nomernya]>"
 read -p"╰───────root@MrTamfanX=•>" MrTamfanX;
 sleep 2
 echo $red "[+]Scaning...."
-sleep 1
+sleep 3
 echo $blue "10%"
-sleep 1
+sleep 4
 echo $green "20%"
-sleep 1
+sleep 2
 echo $cyan "30%"
-sleep 1
+sleep 8
 echo $purple "40%"
-sleep 1
+sleep 3
 echo $blue "50%"
-sleep 1
+sleep 2
 echo $red "60%"
-sleep 1
+sleep 5
 echo $green "70%"
-sleep 1
+sleep 6
 echo $cyan "80%"
-sleep 1
+sleep 7
 echo $purple "90%"
-sleep 1
+sleep 3
 echo $blue "100%"
-sleep 1
+sleep 2
 echo $green "Prosessing Done"
-sleep 1
+sleep 4
 echo  $blue "Nomer WhatsApp Berhasil Di Sadap $Verifikasi"fi
 fi
 
@@ -68,29 +68,29 @@ echo $blue"╭──[Silahkan Masukan Nomernya]>"
 read -p"╰───────root@MrTamfanX=•>" MrTamfanX;
 sleep 2
 echo $red "[+]Scaning...."
-sleep 1
+sleep 5
 echo $blue "10%"
-sleep 1
+sleep 3
 echo $green "20%"
-sleep 1
+sleep 8
 echo $cyan "30%"
-sleep 1
+sleep 3
 echo $purple "40%"
-sleep 1
+sleep 6
 echo $blue "50%"
-sleep 1
+sleep 5
 echo $red "60%"
-sleep 1
+sleep 4
 echo $green "70%"
-sleep 1
+sleep 6
 echo $cyan "80%"
-sleep 1
+sleep 8
 echo $purple "90%"
-sleep 1
+sleep 6
 echo $blue "100%"
-sleep 1
+sleep 9
 echo $green "Prosessing Done"
-sleep 1
+sleep 3
 echo  $blue "Nomer WhatsApp Berhasil Di Sadap $Verifikasi"
 fi
 
@@ -100,29 +100,29 @@ echo $blue"╭──[Silahkan Masukan Nomernya]>"
 read -p"╰───────root@MrTamfanX=•>" MrTamfanX;
 sleep 2
 echo $red "[+]Scaning...."
-sleep 1
+sleep 8
 echo $blue "10%"
-sleep 1
+sleep 4
 echo $green "20%"
-sleep 1
+sleep 5
 echo $cyan "30%"
-sleep 1
+sleep 6
 echo $purple "40%"
-sleep 1
+sleep 4
 echo $blue "50%"
-sleep 1
+sleep 2
 echo $red "60%"
-sleep 1
+sleep 3
 echo $green "70%"
-sleep 1
+sleep 9
 echo $cyan "80%"
-sleep 1
+sleep 7
 echo $purple "90%"
-sleep 1
+sleep 4
 echo $blue "100%"
-sleep 1
+sleep 9
 echo $green "Prosessing Done"
-sleep 1
+sleep 9
 echo  $blue "Nomer WhatsApp Berhasil Di Sadap $Nomer $Kode Verifikasi"
 fi
 
@@ -132,29 +132,29 @@ echo $blue"╭──[Silahkan Masukan Nomernya]>"
 read -p"╰───────root@MrTamfanX=•>" MrTamfanX;
 sleep 2
 echo $red "[+]Scaning...."
-sleep 1
+sleep 8
 echo $blue "10%"
-sleep 1
+sleep 7
 echo $green "20%"
-sleep 1
+sleep 5
 echo $cyan "30%"
-sleep 1
+sleep 4
 echo $purple "40%"
-sleep 1
+sleep 5.5
 echo $blue "50%"
-sleep 1
+sleep 4
 echo $red "60%"
-sleep 1
+sleep 5
 echo $green "70%"
-sleep 1
+sleep 6
 echo $cyan "80%"
-sleep 1
+sleep 7
 echo $purple "90%"
-sleep 1
+sleep 5
 echo $blue "100%"
-sleep 1
+sleep 3
 echo $green "Prosessing Done"
-sleep 1
+sleep 4
 echo  $blue "Nomer WhatsApp Berhasil Di Sadap $Nomer $Kode Verifikasi"
 fi
 
